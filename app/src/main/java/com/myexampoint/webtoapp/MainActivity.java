@@ -1,4 +1,4 @@
-package com.myexampoint.webtoapp;
+package com.gsjacademy.webtoapp;
 
 
 import android.content.DialogInterface;
